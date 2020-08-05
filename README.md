@@ -1,2 +1,3 @@
 # hello-world
 This is an introduction so I can become more familiar with Github...
+Just checking this git thing out.
